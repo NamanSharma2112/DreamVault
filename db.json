@@ -1,0 +1,14 @@
+{
+  "items": [],
+  "goals": [],
+  "expenses": [],
+  "users": [
+    {
+      "id": "mock-user-id",
+      "monthlyIncome": 100000,
+      "monthlySavings": 30000,
+      "monthlyExpenses": 50000,
+      "currency": "INR"
+    }
+  ]
+}
